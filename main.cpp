@@ -18,7 +18,7 @@ public:
 	}
 	void displayDetails()
 	{
-		cout << "Book Name:" << " " << this->bookName << endl;
+		cout << "Name Of The Book Is:" << " " << this->bookName << endl;
 		cout << "Author Name:" << " " << this->authorName << endl;
 		cout << "Cost Of Book:" << " " << this->costOfBook << endl;
 	}
